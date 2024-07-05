@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafae\\Programa\u00E7\u00E3o\\Aula-04-07-Xunit\\Aula-04-07-Xunit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C822F46C-D120-4B67-8089-7CAF1DB803A4}|Aula-04-07-Xunit.csproj|c:\\users\\rafae\\programa\u00E7\u00E3o\\aula-04-07-xunit\\aula-04-07-xunit\\aula-04-07-xunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C822F46C-D120-4B67-8089-7CAF1DB803A4}|Aula-04-07-Xunit.csproj|solutionrelative:aula-04-07-xunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C822F46C-D120-4B67-8089-7CAF1DB803A4}|Aula-04-07-Xunit.csproj|c:\\users\\rafae\\programa\u00E7\u00E3o\\aula-04-07-xunit\\aula-04-07-xunit\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C822F46C-D120-4B67-8089-7CAF1DB803A4}|Aula-04-07-Xunit.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C822F46C-D120-4B67-8089-7CAF1DB803A4}|Aula-04-07-Xunit.csproj|c:\\users\\rafae\\programa\u00E7\u00E3o\\aula-04-07-xunit\\aula-04-07-xunit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C822F46C-D120-4B67-8089-7CAF1DB803A4}|Aula-04-07-Xunit.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C822F46C-D120-4B67-8089-7CAF1DB803A4}|Aula-04-07-Xunit.csproj|c:\\users\\rafae\\programa\u00E7\u00E3o\\aula-04-07-xunit\\aula-04-07-xunit\\calculadora_teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C822F46C-D120-4B67-8089-7CAF1DB803A4}|Aula-04-07-Xunit.csproj|solutionrelative:calculadora_teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculadora_teste.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Programa\u00E7\u00E3o\\Aula-04-07-Xunit\\Aula-04-07-Xunit\\Calculadora_teste.cs",
+              "RelativeDocumentMoniker": "Calculadora_teste.cs",
+              "ToolTip": "C:\\Users\\rafae\\Programa\u00E7\u00E3o\\Aula-04-07-Xunit\\Aula-04-07-Xunit\\Calculadora_teste.cs",
+              "RelativeToolTip": "Calculadora_teste.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:54:51.417Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aula-04-07-Xunit.csproj",
+              "DocumentMoniker": "C:\\Users\\rafae\\Programa\u00E7\u00E3o\\Aula-04-07-Xunit\\Aula-04-07-Xunit\\Aula-04-07-Xunit.csproj",
+              "RelativeDocumentMoniker": "Aula-04-07-Xunit.csproj",
+              "ToolTip": "C:\\Users\\rafae\\Programa\u00E7\u00E3o\\Aula-04-07-Xunit\\Aula-04-07-Xunit\\Aula-04-07-Xunit.csproj",
+              "RelativeToolTip": "Aula-04-07-Xunit.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-05T18:05:16.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Programa\u00E7\u00E3o\\Aula-04-07-Xunit\\Aula-04-07-Xunit\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora.cs",
+              "ToolTip": "C:\\Users\\rafae\\Programa\u00E7\u00E3o\\Aula-04-07-Xunit\\Aula-04-07-Xunit\\Calculadora.cs",
+              "RelativeToolTip": "Calculadora.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:32:05.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Programa\u00E7\u00E3o\\Aula-04-07-Xunit\\Aula-04-07-Xunit\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rafae\\Programa\u00E7\u00E3o\\Aula-04-07-Xunit\\Aula-04-07-Xunit\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:28:15.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
